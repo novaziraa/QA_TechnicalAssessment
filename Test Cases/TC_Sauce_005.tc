@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test</description>
+   <name>TC_Sauce_005</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f49cc5ba-5d90-4da6-9e28-c9680ff8ebc4</testCaseGuid>
+</TestCaseEntity>
