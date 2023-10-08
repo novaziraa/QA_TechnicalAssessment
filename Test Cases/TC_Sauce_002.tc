@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User order the product and successfully checkout the order</description>
+   <name>TC_Sauce_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ace77ea8-a19d-4f7d-a328-6e36811538ba</testCaseGuid>
+</TestCaseEntity>

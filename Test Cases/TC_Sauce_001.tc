@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User login using valid username and password</description>
+   <name>TC_Sauce_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4c68db6-6988-484f-b096-22ca5e4ffd17</testCaseGuid>
+</TestCaseEntity>
