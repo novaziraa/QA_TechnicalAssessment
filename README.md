@@ -1,4 +1,4 @@
 # QA_TechnicalAssessment
-Automation Test on page https://www.saucedemo.com/
+Automation Test for https://www.saucedemo.com/ using Katalon record & play features to execute the test cases
 
-The project in the master
+The project is in the branch master
